@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeUnte
-- 👀 I’m interested in data science
+- 👀 I’m interested in data science and analysis
 - 🌱 I’m currently learning Python_SQL_and PowerBI
 - 💞️ I’m looking to collaborate on analysis projects
 - 📫 How to reach me Twitter @djanddata
