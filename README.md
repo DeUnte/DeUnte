@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeUnte
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to build Python Projects
+- 🌱 I’m currently learning SQL & Python
+- 👀 I’m looking to build Python Projects
 - 📫 How to reach me: LinkedIn @DeunteChatman
 
 <!---
