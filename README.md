@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @DeUnte
-- 🌱 I’m currently learning SQL & Python
-- 👀 I’m looking to build Python Projects
-- 📫 How to reach me: LinkedIn @DeunteChatman
+LinkedIn @DeunteChatman
 
 <!---
 DeUnte/DeUnte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
